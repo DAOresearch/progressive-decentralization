@@ -6,7 +6,7 @@ The focus in on projects that are evolving from a small team focused on shipping
 
 A few things we want to explore:
 - How do you shift from a company mindset to a community mindset?
-- How do you engage the community in a meaningful way while the core team still has most power?
+- How do you engage the community in a meaningful way while the core team still has most of the power?
 - Does the process look different for product teams shipping code vs DeFi protocols that manage protocol parameters?
 - What tools can help with governance, value attribution, and incentive alignment?
 - What teams are doing this well (both within crypto, but also in the open source world)?
